@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.audio.addictradio" name="Addict Radio" version="0.0.1" provider-name="E.L Media">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Listen to Addict Radio's stations with xbmc.</summary>
+    <description lang="en">Addict Radio - My Choice My Music.</description>
+    <disclamer lang="en"></disclamer>
+    <language></language>
+    <platform>all</platform>
+    <license>The MIT License (MIT)</license>
+    <forum></forum>
+    <website>http://www.addictradio.net</website>
+    <email>contact@addictrodio.net</email>
+    <source>https://github.com/ChoiZ/xbmc-plugin.audio.addictradio</source>
+  </extension>
+</addon>

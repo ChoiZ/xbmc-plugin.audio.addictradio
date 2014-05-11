@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <!-- Station name -->
+  <string id="30000">Addict Radio Alternative</string>
+  <string id="30001">Addict Radio Lounge</string>
+  <string id="30002">Addict Radio Rock</string>
+  <string id="30003">Addict Radio Star</string>
+  <string id="30004">Addict Radio by La Détente Générale</string>
+</strings>

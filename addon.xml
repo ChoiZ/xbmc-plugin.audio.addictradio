@@ -16,6 +16,6 @@
     <forum></forum>
     <website>http://www.addictradio.net</website>
     <email>contact@addictrodio.net</email>
-    <source>https://github.com/ChoiZ/xbmc-plugin.audio.addictradio</source>
+    <source>https://github.com/addictradio/xbmc-plugin.audio.addictradio</source>
   </extension>
 </addon>
